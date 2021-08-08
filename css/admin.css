@@ -1,0 +1,17 @@
+
+body {
+  font-family: "Poppins", sans-serif;
+  align-items: center;
+  background-color: #56baed;
+}
+.card {
+    margin: 10px 20;
+}
+.card-title {
+    font-weight: bold;
+    padding: 10px 10px;
+}
+
+.button .btn {
+    width: 100%;
+}
